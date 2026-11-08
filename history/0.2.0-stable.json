@@ -1,0 +1,12 @@
+{
+  "channel": "stable",
+  "versionCode": 4,
+  "versionName": "0.2.0",
+  "minSupportedVersion": 1,
+  "releaseNotes": "Профили теперь переключают и файлы входа в Android/data.\n- Watcher of Realms хранит вход не только во внутренних данных, но и в Android/data (PlayerPref.bin и соседние файлы). Теперь они переключаются вместе с профилем.\n- Тяжёлые ресурсы игры (около 7 ГБ) остаются общими для всех профилей — ничего не докачивается.\n- Защита от сбоя посреди переключения распространяется и на эти файлы.\n- Поиск файлов входа больше не забивается загружаемыми ресурсами.",
+  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.2.0/MultiClone-0.2.0.apk",
+  "sha256": "57deb29a681a3e080c6a1aabc44d2ba7d40d3001579df57867a9a116cadef920",
+  "size": 4706289,
+  "releaseDate": "2026-11-08",
+  "signature": "BgYi8RU2/IiZNm9+oQr1tRtA5wAHQW5Z4xBaYSloDsfjOcYeMN4F/EeAWVQexNWQEMjANLMbqs4Y9yzC3FGEAw=="
+}

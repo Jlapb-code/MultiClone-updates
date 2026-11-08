@@ -1,12 +1,12 @@
 {
   "channel": "stable",
-  "versionCode": 3,
-  "versionName": "0.1.2",
+  "versionCode": 4,
+  "versionName": "0.2.0",
   "minSupportedVersion": 1,
-  "releaseNotes": "- Диагностика сама сохраняется файлом в общую папку LDPlayer (Pictures/MultiClone): забрать на компьютере через кнопку «Общая папка».\n- Результат поиска файлов входа сохраняется и не пропадает при выходе с экрана.",
-  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.1.2/MultiClone-0.1.2.apk",
-  "sha256": "43045b23d4624b2e88d4ac112b8715d5264d67e58e9d298285adbbe2fa49775f",
-  "size": 4702998,
+  "releaseNotes": "Профили теперь переключают и файлы входа в Android/data.\n- Watcher of Realms хранит вход не только во внутренних данных, но и в Android/data (PlayerPref.bin и соседние файлы). Теперь они переключаются вместе с профилем.\n- Тяжёлые ресурсы игры (около 7 ГБ) остаются общими для всех профилей — ничего не докачивается.\n- Защита от сбоя посреди переключения распространяется и на эти файлы.\n- Поиск файлов входа больше не забивается загружаемыми ресурсами.",
+  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.2.0/MultiClone-0.2.0.apk",
+  "sha256": "57deb29a681a3e080c6a1aabc44d2ba7d40d3001579df57867a9a116cadef920",
+  "size": 4706289,
   "releaseDate": "2026-11-08",
-  "signature": "zVPGBKeUWzg5yPamKLA2ZRibjRDlWx0RgSHb9Qhp50TghMDOmnkwKl8C/fjBA98hfPpUKGj7ds66dgA+UmpABg=="
+  "signature": "BgYi8RU2/IiZNm9+oQr1tRtA5wAHQW5Z4xBaYSloDsfjOcYeMN4F/EeAWVQexNWQEMjANLMbqs4Y9yzC3FGEAw=="
 }
