@@ -1,0 +1,12 @@
+{
+  "channel": "stable",
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "minSupportedVersion": 1,
+  "releaseNotes": "- Диагностика сама сохраняется файлом в общую папку LDPlayer (Pictures/MultiClone): забрать на компьютере через кнопку «Общая папка».\n- Результат поиска файлов входа сохраняется и не пропадает при выходе с экрана.",
+  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.1.2/MultiClone-0.1.2.apk",
+  "sha256": "43045b23d4624b2e88d4ac112b8715d5264d67e58e9d298285adbbe2fa49775f",
+  "size": 4702998,
+  "releaseDate": "2026-11-08",
+  "signature": "zVPGBKeUWzg5yPamKLA2ZRibjRDlWx0RgSHb9Qhp50TghMDOmnkwKl8C/fjBA98hfPpUKGj7ds66dgA+UmpABg=="
+}
