@@ -1,0 +1,12 @@
+{
+  "channel": "stable",
+  "versionCode": 2,
+  "versionName": "0.1.1",
+  "minSupportedVersion": 1,
+  "releaseNotes": "Диагностика для поиска, где игра хранит вход в аккаунт.\n- Новая кнопка «Начать / Закончить поиск файлов входа»: показывает все файлы, которые игра изменила за это время.\n- В отчёте: подробный список папок и мелких файлов в Android/data игры и корень памяти.",
+  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.1.1/MultiClone-0.1.1.apk",
+  "sha256": "05c47904ffaeadc7a53f91e54424253bf0bb1a68ef4bed0025e2e9d95c8e4393",
+  "size": 4701233,
+  "releaseDate": "2026-11-08",
+  "signature": "gGvdvMmADhLYupnevZ5L0QP8AvQ1Al49arVsCr04ZzCAtE+lXrRNGVNEu8oPHp0+Th2iWHuLnAQChZTJvlPDCg=="
+}
