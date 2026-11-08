@@ -1,0 +1,12 @@
+{
+  "channel": "stable",
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "minSupportedVersion": 1,
+  "releaseNotes": "Первая тестовая версия.\n- Профили аккаунтов для любой игры: данные подменяются через root, игра остаётся оригинальной.\n- Ярлыки профилей на рабочем столе: нажал — открылся нужный аккаунт.\n- Диагностика: где игра хранит данные и сколько они весят, отправка журнала.\n- Встроенная проверка обновлений с проверкой подписи.",
+  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.1.0/MultiClone-0.1.0.apk",
+  "sha256": "d20d43910fb71ad51040037c2c66a740907cfaf67d5b280a4c9ea7b5f58c246f",
+  "size": 4696721,
+  "releaseDate": "2026-11-08",
+  "signature": "PdRarwQV1L2ONqS9rrsFuBc3PvLbyGo055u8VCaxfgdbGus5MUlQWH92uK3tX2tB8qPT/mwzlazBY5S4cH/wBA=="
+}
