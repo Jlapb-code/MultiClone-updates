@@ -1,12 +1,12 @@
 {
   "channel": "stable",
-  "versionCode": 5,
-  "versionName": "0.2.1",
+  "versionCode": 6,
+  "versionName": "0.2.2",
   "minSupportedVersion": 1,
-  "releaseNotes": "- Выбор режима папки Android/data для каждой игры: общая / файлы входа свои, ресурсы общие / у каждого профиля вся своя.\n- Режим «вся своя»: каждый профиль хранит полную копию данных игры (ресурсы скачиваются для каждого профиля отдельно, нужно больше места).",
-  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.2.1/MultiClone-0.2.1.apk",
-  "sha256": "d58d60c576ff1ea94f755beef411d25828416f58758053a236f5cb680ca4e76a",
-  "size": 4706685,
+  "releaseNotes": "- Диагностика показывает системные аккаунты Android и историю их изменений (без паролей и токенов) — чтобы понять, где игра хранит вход.",
+  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.2.2/MultiClone-0.2.2.apk",
+  "sha256": "d53c705bbd71d858927092b8beb2396291f36edeb15534bb7c589b049445aa68",
+  "size": 4706944,
   "releaseDate": "2026-11-08",
-  "signature": "mL1Ve51DHggFWxE9igFXGNNhs3ohG5F5D9cN7quyyRzThMZoEygCXZ3N6G7PVw46+ZrxnHz0uQ2snyRQ4DOwBQ=="
+  "signature": "xcILbhgMOlYWJutQAwUeaqUE7Kp/k5R2vJt4xpRxwjivsIHKMK2rYvGZvFr21IdRLnBIfiqxak6cZSAplMshBg=="
 }

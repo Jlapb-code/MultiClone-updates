@@ -1,0 +1,12 @@
+{
+  "channel": "stable",
+  "versionCode": 6,
+  "versionName": "0.2.2",
+  "minSupportedVersion": 1,
+  "releaseNotes": "- Диагностика показывает системные аккаунты Android и историю их изменений (без паролей и токенов) — чтобы понять, где игра хранит вход.",
+  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.2.2/MultiClone-0.2.2.apk",
+  "sha256": "d53c705bbd71d858927092b8beb2396291f36edeb15534bb7c589b049445aa68",
+  "size": 4706944,
+  "releaseDate": "2026-11-08",
+  "signature": "xcILbhgMOlYWJutQAwUeaqUE7Kp/k5R2vJt4xpRxwjivsIHKMK2rYvGZvFr21IdRLnBIfiqxak6cZSAplMshBg=="
+}
