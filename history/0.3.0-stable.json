@@ -1,0 +1,12 @@
+{
+  "channel": "stable",
+  "versionCode": 7,
+  "versionName": "0.3.0",
+  "minSupportedVersion": 1,
+  "releaseNotes": "Новый режим «Пользователи Android» (экспериментальный).\n- Каждый аккаунт игры — в отдельном пользователе Android: для игры это отдельное устройство со своим Android ID, своими системными аккаунтами и данными.\n- MultiClone сам создаёт пользователя, ставит в него игру и себя, переключается и запускает игру одним нажатием.\n- Ярлыки на рабочий стол для каждого пользователя.\n- Ресурсы игры в каждом пользователе скачиваются отдельно.",
+  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.3.0/MultiClone-0.3.0.apk",
+  "sha256": "417ffb3fda9c6b383ed602b7fa902c73c3ccc0690ec3bff6908ee9c56e8a17fa",
+  "size": 4715492,
+  "releaseDate": "2026-11-08",
+  "signature": "pA7Cqe9qm8Rec6cuyAzNjx/pWw9ApP6213OF8UKx8xgrwSsn8wcxR6+Qq/ghxTRPv4tw9/RRt4J571t7sQupBg=="
+}
