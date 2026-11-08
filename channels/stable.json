@@ -1,12 +1,12 @@
 {
   "channel": "stable",
-  "versionCode": 7,
-  "versionName": "0.3.0",
+  "versionCode": 8,
+  "versionName": "0.3.1",
   "minSupportedVersion": 1,
-  "releaseNotes": "Новый режим «Пользователи Android» (экспериментальный).\n- Каждый аккаунт игры — в отдельном пользователе Android: для игры это отдельное устройство со своим Android ID, своими системными аккаунтами и данными.\n- MultiClone сам создаёт пользователя, ставит в него игру и себя, переключается и запускает игру одним нажатием.\n- Ярлыки на рабочий стол для каждого пользователя.\n- Ресурсы игры в каждом пользователе скачиваются отдельно.",
-  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.3.0/MultiClone-0.3.0.apk",
-  "sha256": "417ffb3fda9c6b383ed602b7fa902c73c3ccc0690ec3bff6908ee9c56e8a17fa",
-  "size": 4715492,
+  "releaseNotes": "- Автовозврат: после закрытия игры в дополнительном пользователе эмулятор сам возвращается в основного пользователя (где у MultiClone есть root), а дополнительный останавливается и освобождает память. Отключается переключателем на экране «Пользователи Android».\n- Переключатель пользователей в шторке Android — запасной способ вернуться без перезапуска эмулятора.\n- Подсказка в MultiClone, если он открыт в дополнительном пользователе.",
+  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.3.1/MultiClone-0.3.1.apk",
+  "sha256": "0c57fbf96437a43397502646d6048a7ba4b7c491350c85171b4cb03aa06357e8",
+  "size": 4717103,
   "releaseDate": "2026-11-08",
-  "signature": "pA7Cqe9qm8Rec6cuyAzNjx/pWw9ApP6213OF8UKx8xgrwSsn8wcxR6+Qq/ghxTRPv4tw9/RRt4J571t7sQupBg=="
+  "signature": "Neu02/8i5/iO0KNTo0yy5c7MDjBKoeSu1riiCeoWHKzXGCHBjWex2TEh/BUl0Kg+tKZCQM/rELvUEmsNSL7/AA=="
 }

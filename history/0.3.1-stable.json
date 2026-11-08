@@ -1,0 +1,12 @@
+{
+  "channel": "stable",
+  "versionCode": 8,
+  "versionName": "0.3.1",
+  "minSupportedVersion": 1,
+  "releaseNotes": "- Автовозврат: после закрытия игры в дополнительном пользователе эмулятор сам возвращается в основного пользователя (где у MultiClone есть root), а дополнительный останавливается и освобождает память. Отключается переключателем на экране «Пользователи Android».\n- Переключатель пользователей в шторке Android — запасной способ вернуться без перезапуска эмулятора.\n- Подсказка в MultiClone, если он открыт в дополнительном пользователе.",
+  "apkUrl": "https://github.com/Jlapb-code/MultiClone-updates/releases/download/v0.3.1/MultiClone-0.3.1.apk",
+  "sha256": "0c57fbf96437a43397502646d6048a7ba4b7c491350c85171b4cb03aa06357e8",
+  "size": 4717103,
+  "releaseDate": "2026-11-08",
+  "signature": "Neu02/8i5/iO0KNTo0yy5c7MDjBKoeSu1riiCeoWHKzXGCHBjWex2TEh/BUl0Kg+tKZCQM/rELvUEmsNSL7/AA=="
+}
